@@ -1,3 +1,5 @@
+package ss
+import.util.java.*;
 public class waitnotify implements Runnable
 {
 synchronized void withdraw()
